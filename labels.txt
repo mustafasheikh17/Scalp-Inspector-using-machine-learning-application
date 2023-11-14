@@ -1,0 +1,5 @@
+0 Healthy
+1 Sebboreic
+2 Folliculitis
+3 Dandruff
+4 Alopecia
